@@ -22,7 +22,7 @@ To objectively reflect on my internship period, I would like to evaluate myself 
 | 5   | **Discipline**                      | Adhering to schedules, rules, and work processes                                                 | ☐   | ☐    |    ✅  |
 | 6   | **Progressive mindset**             | Willingness to receive feedback and improve oneself                                              |  ☐  | ☐    | ✅     |
 | 7   | **Communication**                   | Presenting ideas and reporting work clearly                                                      | ☐    | ✅   | ☐      |
-| 8   | **Teamwork**                        | Working effectively with colleagues and participating in teams                                   | ✅   | ☐    | ☐      |
+| 8   | **Teamwork**                        | Working effectively with colleagues and participating in teams                                   |   ☐ | ☐    | ✅      |
 | 9   | **Professional conduct**            | Respecting colleagues, partners, and the work environment                                        | ✅   | ☐    | ☐      |
 | 10  | **Problem-solving skills**          | Identifying problems, proposing solutions, and showing creativity                                |   ☐  |   ✅ | ☐      |
 | 11  | **Contribution to project/team**    | Work effectiveness, innovative ideas, recognition from the team                                  |  ☐  | ✅   | ☐      |
@@ -32,4 +32,5 @@ To objectively reflect on my internship period, I would like to evaluate myself 
 
 * Be more disciplined 
 * Improve the understanding on front-end and the flow of the cloud architecture.
-* Improve proactivity.
+* Improve proactivity
+* Improve teamwork
