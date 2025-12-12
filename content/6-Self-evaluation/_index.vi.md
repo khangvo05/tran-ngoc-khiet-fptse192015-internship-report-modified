@@ -22,7 +22,7 @@ Trong dự án, tôi cố gắng hoàn thành nhiệm vụ của mình một cá
 | 5   | **Kỷ luật**                       | Tuân thủ lịch trình, quy tắc và quy trình làm việc                                               | ☐    | ☐    | ✅        |
 | 6   | **Tư duy tiến bộ**                | Sẵn sàng tiếp nhận phản hồi và cải thiện bản thân                                                | ☐    | ☐    | ✅        |
 | 7   | **Khả năng giao tiếp**            | Trình bày ý tưởng và báo cáo công việc rõ ràng                                                  | ☐    | ✅   | ☐        |
-| 8   | **Tinh thần làm việc nhóm**       | Làm việc hiệu quả với đồng nghiệp và tham gia vào các nhóm                                       | ✅   | ☐    | ☐        |
+| 8   | **Tinh thần làm việc nhóm**       | Làm việc hiệu quả với đồng nghiệp và tham gia vào các nhóm                                       | ☐  | ☐    | ✅        |
 | 9   | **Ứng xử chuyên nghiệp**          | Tôn trọng đồng nghiệp, đối tác và môi trường làm việc                                            | ✅   | ☐    | ☐        |
 | 10  | **Kỹ năng giải quyết vấn đề**     | Xác định vấn đề, đề xuất giải pháp và thể hiện sáng tạo                                         | ☐    | ✅   | ☐        |
 | 11  | **Đóng góp cho dự án/nhóm**       | Hiệu quả công việc, ý tưởng sáng tạo, được công nhân từ nhóm                                    | ☐    | ✅   | ☐        |
@@ -33,3 +33,4 @@ Trong dự án, tôi cố gắng hoàn thành nhiệm vụ của mình một cá
 * Cần kỷ luật hơn
 * Cải thiện sự hiểu biết về front-end và quy trình luồng của kiến trúc đám mây.
 * Nâng cao tính chủ động.
+* Cải thiện làm việc nhóm
